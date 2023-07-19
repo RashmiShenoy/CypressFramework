@@ -1,0 +1,22 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RashmiShenoy/CypressFramework.git"
+  },
+  "author": "rashmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RashmiShenoy/CypressFramework/issues"
+  },
+  "homepage": "https://github.com/RashmiShenoy/CypressFramework#readme",
+  "devDependencies": {
+    "cypress": "^12.17.1"
+  }
+}
